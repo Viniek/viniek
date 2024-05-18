@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there, I'm Victory Kinyanjui
 
-<!--
-**Viniek/Viniek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a passionate and dedicated Full Stack Developer with a degree in Computer science from Murang'a University of Technology. My journey in the tech world has been marked by continuous learning and a commitment to developing innovative solutions.
 
-Here are some ideas to get you started:
+![viniek's Stats](https://github-readme-stats.vercel.app/api?username=viniek&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)  
+![viniek's Streak](https://github-readme-streak-stats.herokuapp.com/?user=viniek&theme=tokyonight&hide_border=true)  
+![viniek's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viniek&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎓 *Education*: Computer science from Murang'a University of Technology
+- 🌐 *Full Stack Developer*: Experienced in both front-end and back-end development
+- 💻 *Programming Languages*: Python, HTML, CSS, JavaScript,markdown,visualbasic, c++, c, Networking
+- 🛠️ *Tools & Technologies*: Python Tkinter, Computer Hardware
+- 🏢 *Professional Experience*:
+  - *Teach2Give*: Enhanced my skills in various aspects of IT and web development
