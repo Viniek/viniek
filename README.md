@@ -23,4 +23,4 @@ Welcome to my GitHub profile! I am a passionate and dedicated Full Stack Develop
 - 💻 *Programming Languages*: Python, HTML, CSS, JavaScript,markdown,visualbasic, c++, c, Networking
 - 🛠️ *Tools & Technologies*: Python Tkinter, Computer Hardware
 - 🏢 *Professional Experience*:
-  - *Teach2Give*: Enhanced my skills in various aspects of IT and web development
+  - *Teach2Give*: Enhanced my skills in various aspects of Computer Science and web development
