@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I am a passionate and dedicated Full Stack Develop
 
 ---
 
-##Contact Me
+## Contact Me
 
 EMAIL:njerivictory52@gmail.com
 
